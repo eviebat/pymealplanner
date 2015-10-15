@@ -1,9 +1,7 @@
 # pymealplanner
 A weekly meal planner created for a Python course.
 
-Meal Planner 
-
-Author: Emily Vanderveer
+Vegetarian Meal Planner 
 
 Last update: 3/31/15 
 
