@@ -1,9 +1,9 @@
 # pymealplanner
-A weekly meal planner created for a Python course.
+A weekly meal planner created for a programming course.
 
 Vegetarian Meal Planner 
 
-Last update: 3/31/15 
+Last update: 10/15/15
 
 Summary:  
 This application is used to plan a weeks worth of meals. Start with the mealPlanner.py file to begin your meal 
